@@ -15,7 +15,10 @@ namespace ModasSeedData
                 // TODO: Add locations
                 new Location {LocationId = 1, Name = "Front Door"},
                 new Location {LocationId = 2, Name = "Back Door"},
-                new Location {LocationId = 3, Name = "Living Room"}
+                new Location {LocationId = 3, Name = "Living Room"},
+                new Location {LocationId = 4, Name = "Basement"},
+                new Location {LocationId = 5, Name = "Bedroom Door"},
+                new Location {LocationId = 6, Name = "Hallway"}
 
             };
             // create date object containing current date/time
